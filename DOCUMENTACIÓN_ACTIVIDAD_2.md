@@ -1,4 +1,11 @@
-Los dos ejercicios que elgí fueron los siguientes:
+### Multiplicación (Ejercicio en clase)
+![image](https://github.com/user-attachments/assets/6fa0ddc4-dcf2-4204-adb5-47a432fac4bb)
+
+Este ejercicio lo hice con sumas consecutivas, usé un Loop para esto. En la clase me pareció complejo porque apenas estaba entendiendo como funcionaban los condicionales, los ciclos y las variables, así que durante mi trabajo autónomo repasé lo visto en clase y fuí capaz de resolver el ejercicio de la siguiente manera: 
+
+![image](https://github.com/user-attachments/assets/3e602be1-1b6e-4ba5-96ad-8aa228584f97)
+
+Los otros dos ejercicios que elegí fueron los siguientes:
 ### Suma de los primeros N numeros enteros
 ![image](https://github.com/user-attachments/assets/fda8e120-1da3-4446-a005-bc4416d217da)
 
