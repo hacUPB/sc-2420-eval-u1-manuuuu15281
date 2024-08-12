@@ -24,7 +24,7 @@ Los otros dos ejercicios que elegí fueron los siguientes:
 1. Este ejercicio a diferencia del anterior, no logré hacer la lógica en C# porque no sabía como simular correctamente las posiciones de la  RAM y no enredarme en el proceso de transformación al codigo ensamblador, así que decidí hacerlo directamente en visual code.
 ![image](https://github.com/user-attachments/assets/9fee97e1-032e-478b-b1f7-d29514233866)
 
-2. En este programa tuve problemas para lograr que se movieran las direcciones donde debian irse guardando los números de la cuenta regresiva,  así que hablé con la IA y su manera de hacerlo me pareció muy coonfusa pero era funcional así que la adopté en mi código, aún así no entendí completamente lo que hizo (Mañana lunes 5 de agosto le pregunto al profe :) ) la duda a continuación :
+2. En este programa tuve problemas para lograr que se movieran las direcciones donde debian irse guardando los números de la cuenta regresiva,  así que hablé con la IA y su manera de hacerlo me pareció muy coonfusa pero era funcional así que la adopté en mi código, aún así no entendí completamente lo que hizo (Mañana lunes 5 de agosto le pregunto al profe :) la duda a continuación :
 ![image](https://github.com/user-attachments/assets/a57510b0-7e78-41c8-9918-955fdd7f4789)
 
 3. Finalmente en la prueba en el simulador funcionó muy bien.
